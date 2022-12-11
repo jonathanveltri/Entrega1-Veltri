@@ -6,7 +6,8 @@ Primero, se corre el proyecto usando: "python manage.py runserver" desde la term
 
 Ingresar en el navegador: localhost:8000
 
-Se pueden ingrear 3 tipos de datos con sus respectivos botones de acción:
+Se pueden ingresar tres tipos de datos con sus respectivos botones de acción:
+
 -Personas (Botón Agregar)
 -Mascota (Botón Mascota)
 -Vehículo (Botón Vehículo)
